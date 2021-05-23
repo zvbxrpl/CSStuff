@@ -1,0 +1,65 @@
+{
+  "title": "Machikado Mazoku",
+  "description": "Un giorno le abilità magiche demoniache della quindicenne Yuko Yoshida si risvegliano. Le crescono improvvisamente una coda e delle corna ma la sua forza resta quella di una ragazza normale. Il suo compito ora è quello di sconfiggere le maghette che abitano nella sua stessa città.",
+  "artist": "Ito Izumo",
+  "author": "Ito Izumo",
+  "cover": "https://www.animeclick.it/immagini/manga/Machikado_Mazoku/gallery/Machikado_Mazoku-5c4cc99f7a99b.jpg",
+  "chapters": {
+    "35": {
+      "title": "Sferrate l'Attacco! L'Operazione Rosa di Riconquista di Shamiko!",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/IwmEPOX/"
+      },
+      "last_updated": "1621789864"
+    },
+    "36": {
+      "title": "Il Labirinto della Memoria!? Il Mistero che si Cela Dietro il Gatto nella Neve!",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/sjH0FbB/"
+      },
+      "last_updated": "1621789864"
+    },
+    "36.5": {
+      "title": "Bonus",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/ZleSTmv/"
+      },
+      "last_updated": "1621789864"
+    },
+    "37": {
+      "title": "Il Risveglio della Demone! Apriti la Tua Strada!",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/TqRFhZC/"
+      },
+      "last_updated": "1621789864"
+    },
+    "38": {
+      "title": "Segreti di Dieci Anni Fa! Ricordi a Forma di Petalo",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/wZc4LVx/"
+      },
+      "last_updated": "1621789864"
+    },
+    "39": {
+      "title": "Giuramento al Tramonto! Il Cammino Percorso dai Demoni",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/k6ncveH/"
+      },
+      "last_updated": "1621789864"
+    },
+    "39.5": {
+      "title": "Bonus e Indice del Volume 3",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/vYBfHoO/"
+      },
+      "last_updated": "1621789864"
+    }
+  }
+}
