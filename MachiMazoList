@@ -5,6 +5,78 @@
   "author": "Ito Izumo",
   "cover": "https://www.animeclick.it/immagini/manga/Machikado_Mazoku/gallery/Machikado_Mazoku-5c4cc99f7a99b.jpg",
   "chapters": {
+    "0": {
+      "title": "Introduzione del volume 1",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/GaI8l9g"
+      },
+      "last_updated": "938544437"
+    },
+    "1": {
+      "title": "Yuko si Risveglia!! Demone per Motivi di Famiglia",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/eUcG0ku"
+      },
+      "last_updated": "938544437"
+    },
+    "1.5": {
+      "title": "Bonus",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/pS4FZRy"
+      },
+      "last_updated": "938544437"
+    },
+    "2": {
+      "title": "Il Primo Scontro!! La Mia Nemica È una Compagna di Scuola Carina!?",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/2pOODCc"
+      },
+      "last_updated": "938544437"
+    },
+    "3": {
+      "title": "Piena di Grinta!? Il Mondo Scorre",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/7BJGIPz"
+      },
+      "last_updated": "938544437"
+    },
+    "4": {
+      "title": "Aumento di Budget!! I Carboidrati Sono Inclusi?",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/jWibac2"
+      },
+      "last_updated": "938544437"
+    },
+    "5": {
+      "title": "Incubo o Presagio!? L'Avvento del Fermaporta delle Tenebre",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/f8bfRvd"
+      },
+      "last_updated": "938544437"
+    },
+    "6": {
+      "title": "Il Desiderio di Shamiko!! Il Manzo al 100% Salva il Mondo",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/sn7oTj9"
+      },
+      "last_updated": "938544437"
+    },
+    "6.5": {
+      "title": "Bonus",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/SG21J7u"
+      },
+      "last_updated": "938544437"
+    },
     "35": {
       "title": "Sferrate l'Attacco! L'Operazione Rosa di Riconquista di Shamiko!",
       "volume": "3",
