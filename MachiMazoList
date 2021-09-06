@@ -3,7 +3,7 @@
   "description": "Un giorno le abilità magiche demoniache della quindicenne Yuko Yoshida si risvegliano. Le crescono improvvisamente una coda e delle corna ma la sua forza resta quella di una ragazza normale. Il suo compito ora è quello di sconfiggere le maghette che abitano nella sua stessa città.",
   "artist": "Ito Izumo",
   "author": "Ito Izumo",
-  "cover": "https://www.animeclick.it/immagini/manga/Machikado_Mazoku/gallery/Machikado_Mazoku-5c4cc99f7a99b.jpg",
+  "cover": "https://uploads.mangadex.org/covers/d4ff7502-b5d4-4fd2-845f-c8754b14dd8d/559ba478-ef38-4111-8aab-7eb603661e0a.jpg.512.jpg",
   "chapters": {
     "0": {
       "title": "Introduzione del volume 1",
@@ -74,6 +74,54 @@
       "volume": "1",
       "groups": {
         "Crown Scans": "/proxy/api/imgur/chapter/SG21J7u"
+      },
+      "last_updated": "938544437"
+    },
+    "7": {
+      "title": "I Segreti dell'Idolo della Capostipite!! L'Avvento dell'Antenata nel Mondo Odierno!!",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/13SCiRe"
+      },
+      "last_updated": "938544437"
+    },
+    "8": {
+      "title": "Affina il Tuo Cuore!! La Nuova Forza della Maghetta",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/VzZNniz"
+      },
+      "last_updated": "938544437"
+    },
+    "9": {
+      "title": "Tentazione nella Galleria!! La Verità Vista dalla Macchina Fotografica",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/ketEiUd"
+      },
+      "last_updated": "938544437"
+    },
+    "9.5": {
+      "title": "Bonus",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/yrxDSIj"
+      },
+      "last_updated": "938544437"
+    },
+    "10": {
+      "title": "Un Nuovo Cimento!? Oggi Sono una Demone Corriere",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/UmFga9o"
+      },
+      "last_updated": "938544437"
+    },
+    "11": {
+      "title": "Antenata Non ti Fermare!! Alla Carica degli Sweet Dreams Vicini",
+      "volume": "1",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/6oHKP8E"
       },
       "last_updated": "938544437"
     },
