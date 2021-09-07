@@ -1,8 +1,8 @@
 {
   "title": "Machikado Mazoku",
   "description": "Un giorno le abilità magiche demoniache della quindicenne Yuko Yoshida si risvegliano. Le crescono improvvisamente una coda e delle corna ma la sua forza resta quella di una ragazza normale. Il suo compito ora è quello di sconfiggere le maghette che abitano nella sua stessa città.",
-  "artist": "Ito Izumo",
-  "author": "Ito Izumo",
+  "artist": "Itō Izumo",
+  "author": "Itō Izumo",
   "cover": "https://uploads.mangadex.org/covers/d4ff7502-b5d4-4fd2-845f-c8754b14dd8d/559ba478-ef38-4111-8aab-7eb603661e0a.jpg.512.jpg",
   "chapters": {
     "0": {
@@ -365,6 +365,22 @@
       },
       "last_updated": "938544437"
     },
+    "33.5": {
+      "title": "Bonus",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/K5zDSMj/"
+      },
+      "last_updated": "938544437"
+    },
+    "34": {
+      "title": "Scoperta una Nuova Specie! Il Caffè in Città È un Covo di Demoni!",
+      "volume": "3",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/1D3UM1K/"
+      },
+      "last_updated": "938544437"
+    },
     "35": {
       "title": "Sferrate l'Attacco! L'Operazione Rosa di Riconquista di Shamiko!",
       "volume": "3",
@@ -418,6 +434,86 @@
       "volume": "3",
       "groups": {
         "Crown Scans": "/proxy/api/imgur/chapter/vYBfHoO/"
+      },
+      "last_updated": "938544437"
+    },
+    "39.9": {
+      "title": "Introduzione del Volume 4",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/nPoaWlt/"
+      },
+      "last_updated": "938544437"
+    },
+    "40": {
+      "title": "Un Momento di Vacanza!! Il Festival Estivo della Demone",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/KyFJu7s/"
+      },
+      "last_updated": "938544437"
+    },
+    "41": {
+      "title": "L'Ora Stabilita si Avvicina!! Affronta la Montagna di Compiti!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/MgqEQXw/"
+      },
+      "last_updated": "938544437"
+    },
+    "42": {
+      "title": "Prendila per la Gola!! La Ricetta Segreta della Demone!!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/9H0jwfG/"
+      },
+      "last_updated": "938544437"
+    },
+    "43": {
+      "title": "Volano Scintille!? La Gita Congiunta di Luce e Tenebre!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/Nl4e7wp/"
+      },
+      "last_updated": "938544437"
+    },
+    "43.5": {
+      "title": "Bonus",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/jI824dt/"
+      },
+      "last_updated": "938544437"
+    },
+    "44": {
+      "title": "Emozioni Nere!! Di Nuovo Darkness Peach!!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/m9bGMCC/"
+      },
+      "last_updated": "938544437"
+    },
+    "45": {
+      "title": "I Misteri della Natura! La Sorgente Segreta di Sakura Chiyoda",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/nEKXhaQ/"
+      },
+      "last_updated": "938544437"
+    },
+    "46": {
+      "title": "Una Meteora Nera!? Proteggi la Casa da Tu Sai Cosa!!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/noAsk73/"
+      },
+      "last_updated": "938544437"
+    },
+    "46.5": {
+      "title": "Bonus",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/PKnkamK/"
       },
       "last_updated": "938544437"
     }
