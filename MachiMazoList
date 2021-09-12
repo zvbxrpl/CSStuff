@@ -516,6 +516,22 @@
         "Crown Scans": "/proxy/api/imgur/chapter/PKnkamK/"
       },
       "last_updated": "938544437"
+    },
+    "47": {
+      "title": "Il Dojo dell'Antenata!? L'Arma Definitiva della Demone!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/QGHgbqr/"
+      },
+      "last_updated": "938544437"
+    },
+    "47.5": {
+      "title": "Bonus",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/6NW0wEH/"
+      },
+      "last_updated": "938544437"
     }
   }
 }
