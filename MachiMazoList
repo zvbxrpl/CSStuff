@@ -548,7 +548,7 @@
         "Crown Scans": "/proxy/api/imgur/chapter/me8CGk8/"
       },
       "last_updated": "938544437"
-      },
+    },
     "50": {
       "title": "Battaglia in Sogno!! Scatena l'Arma Leggendaria!!",
       "volume": "4",
@@ -556,12 +556,28 @@
         "Crown Scans": "/proxy/api/imgur/chapter/3iggazC/"
       },
       "last_updated": "938544437"
-        },
+    },
     "51": {
       "title": "Rivelazione! La Verità sulla Maledizione Arancione",
       "volume": "4",
       "groups": {
         "Crown Scans": "/proxy/api/imgur/chapter/JEysB5Z/"
+      },
+      "last_updated": "938544437"
+    },
+    "52": {
+      "title": "Un Improvvisato Rituale a Notte Fonda! La Nuova Compagna della Demone!!",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/qRQeekf/"
+      },
+      "last_updated": "938544437"
+    },
+    "52.5": {
+      "title": "Bonus e Indice del Volume 4",
+      "volume": "4",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/eJRyQoS/"
       },
       "last_updated": "938544437"
     }
