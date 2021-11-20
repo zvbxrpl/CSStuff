@@ -580,6 +580,14 @@
         "Crown Scans": "/proxy/api/imgur/chapter/eJRyQoS/"
       },
       "last_updated": "938544437"
+    },
+    "52.9": {
+      "title": "Introduzione del Volume 5",
+      "volume": "5",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/BPf7eqR/"
+      },
+      "last_updated": "938544437"
     }
   }
 }
