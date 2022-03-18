@@ -660,6 +660,22 @@
         "Crown Scans": "/proxy/api/imgur/chapter/ZHKgt3K/"
       },
       "last_updated": "938544437"
+    },
+    "61": {
+      "title": "Un'Ospite Indesiderata! Il Caffè nel Rudere È una Polveriera!!",
+      "volume": "5",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/AcyNMPs/"
+      },
+      "last_updated": "938544437"
+    },
+    "61.5": {
+      "title": "Bonus",
+      "volume": "5",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/j0qkdDU/"
+      },
+      "last_updated": "938544437"
     }
   }
 }
