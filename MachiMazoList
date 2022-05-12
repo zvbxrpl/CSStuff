@@ -724,6 +724,22 @@
         "Crown Scans": "/proxy/api/imgur/chapter/FV73UhC/"
       },
       "last_updated": "938544437"
+    },
+    "64.9": {
+      "title": "Introduzione del Volume 6",
+      "volume": "6",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/yLZoxgW/"
+      },
+      "last_updated": "938544437"
+    },
+    "65": {
+      "title": "Le Scale Verso l'Età Adulta! Demone VS Ristorante Costoso!!",
+      "volume": "6",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/DZaAlCG/"
+      },
+      "last_updated": "938544437"
     }
   }
 }
