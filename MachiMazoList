@@ -844,6 +844,22 @@
         "Crown Scans": "/proxy/api/imgur/chapter/K8EuYFm/"
       },
       "last_updated": "938544437"
+    },
+    "77": {
+      "title": "Capitolo 77 - Determinazione! Giuramento per il Santuario dei Demoni + Extra",
+      "volume": "6",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/A2hMwXa/"
+      },
+      "last_updated": "938544437"
+    },
+    "77.5": {
+      "title": "Bonus e Indice del Volume 6",
+      "volume": "6",
+      "groups": {
+        "Crown Scans": "/proxy/api/imgur/chapter/Dc3reS8/"
+      },
+      "last_updated": "938544437"
     }
   }
 }
